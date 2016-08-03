@@ -1,0 +1,7 @@
+D:\ZhangL-Project\bin\Hack.Fast.Extensions.xml
+D:\ZhangL-Project\bin\Hack.Fast.Extensions.dll
+D:\ZhangL-Project\bin\Hack.Fast.Extensions.pdb
+D:\ZhangL-Project\Hack.Fast.Extensions\obj\Debug\Hack.Fast.Extensions.dll
+D:\ZhangL-Project\Hack.Fast.Extensions\obj\Debug\Hack.Fast.Extensions.pdb
+D:\ZhangL-Project\HackExtend\WebApplication1\WebApplication1\bin\Hack.Fast.Extensions.dll
+D:\ZhangL-Project\HackExtend\WebApplication1\WebApplication1\bin\Hack.Fast.Extensions.pdb
