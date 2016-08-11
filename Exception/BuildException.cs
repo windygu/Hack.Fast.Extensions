@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace Mysoft.Map.Extensions.Exception
+namespace Hack.Fast.Extensions
 {
 	/// <summary>
 	/// 表示代码生成异常

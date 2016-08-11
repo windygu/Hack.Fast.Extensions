@@ -4,7 +4,7 @@ using System.Linq;
 using System.Runtime.Serialization;
 using System.Text;
 
-namespace Mysoft.Map.Extensions.Exception
+namespace Hack.Fast.Extensions
 {
 
 	/// <summary>

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Runtime.Serialization;
 using System.Text;
 
-namespace Mysoft.Map.Extensions.Exception
+namespace Hack.Fast.Extensions
 {
 	/// <summary>
 	/// 开放式并发冲突发生时引发的异常。

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.CodeDom.Compiler;
 
-namespace Mysoft.Map.Extensions.Exception
+namespace Hack.Fast.Extensions
 {
 	/// <summary>
 	/// 表示编译异常
