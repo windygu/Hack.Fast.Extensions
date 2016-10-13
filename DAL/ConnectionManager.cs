@@ -38,13 +38,7 @@ namespace Hack.Fast.Extensions.DAL
 			if( command == null )
 				throw new ArgumentNullException("command");
 
-
-			// 如果存在模拟数据，则直接用模拟数据做为返回结果。
-			object mockResult = Hack.Fast.Extensions.Test.MockResult.GetResult();
-			if( mockResult != null )
-				return (T)mockResult;
-
-			// 打开连接，并根据需要开启事务
+            // 打开连接，并根据需要开启事务
 			if( _connection == null ) {
 				_connection = new SqlConnection(_connectionString);
 

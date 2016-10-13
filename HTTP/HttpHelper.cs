@@ -86,7 +86,7 @@ namespace Hack.Fast.Extensions
         /// <summary>
         /// 设置超时时间
         /// </summary>
-        /// <param name="sec"></param>
+        /// <param name="msec"></param>
         public void SetTimeOut(int msec)
         {
             _timeout = msec;
@@ -339,8 +339,9 @@ namespace Hack.Fast.Extensions
             String html;
             try
             {
-                ServicePointManager.ServerCertificateValidationCallback = new System.Net.Security.RemoteCertificateValidationCallback(CheckCertificate);
-                HttpWebRequest request = (HttpWebRequest)HttpWebRequest.Create(url);
+                ServicePointManager.ServerCertificateValidationCallback =
+                    new System.Net.Security.RemoteCertificateValidationCallback(CheckCertificate);
+                HttpWebRequest request = (HttpWebRequest) WebRequest.Create(url);
                 request.UserAgent = _useragent;
                 request.Timeout = _timeout;
                 request.Referer = refer;
@@ -369,7 +370,7 @@ namespace Hack.Fast.Extensions
                 request.GetRequestStream().Write(buffer, 0, buffer.Length);
                 request.GetRequestStream().Close();
 
-                HttpWebResponse response = (HttpWebResponse)request.GetResponse();
+                HttpWebResponse response = (HttpWebResponse) request.GetResponse();
                 html = GetStringFromResponse(response);
                 if (request.CookieContainer != null)
                 {

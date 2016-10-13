@@ -110,7 +110,6 @@
     <Compile Include="DAL\DataTableExtensions.cs" />
     <Compile Include="DAL\IDbExecute.cs" />
     <Compile Include="DAL\SqlString.cs" />
-    <Compile Include="DecouplingUtils.cs" />
     <Compile Include="Exception\NonStandardExecption.cs" />
     <Compile Include="Exception\OptimisticConcurrencyException.cs" />
     <Compile Include="HTTP\ContentEncodingModule.cs" />
@@ -127,7 +126,6 @@
     <Compile Include="MVC\Attribute\AuthorizeAttribute.cs" />
     <Compile Include="MVC\Attribute\HttpValueIgnoreAttribute.cs" />
     <Compile Include="MVC\Attribute\PageUrlAttribute.cs" />
-    <Compile Include="MVC\Attribute\PermissionCheckAttribute.cs" />
     <Compile Include="MVC\Attribute\SessionModeAttribute.cs" />
     <Compile Include="MVC\Cache\CacheResult.cs" />
     <Compile Include="MVC\Cache\ConfigManager.cs" />
@@ -203,7 +201,6 @@
     <Compile Include="DAL\BaseEntity.cs" />
     <Compile Include="DAL\EventManager.cs" />
     <Compile Include="DAL\ParameterCache.cs" />
-    <Compile Include="Test\MockResult.cs" />
     <Compile Include="Tools\BinSerializerHelper.cs" />
     <Compile Include="Tools\MapHelper.cs" />
     <Compile Include="Tools\TimeStampExtensions.cs" />
