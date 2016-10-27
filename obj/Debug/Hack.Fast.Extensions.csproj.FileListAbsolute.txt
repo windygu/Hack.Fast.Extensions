@@ -13,3 +13,14 @@ F:\GitHub\Hack.Fast.Extensions\Hack.Fast.Extensions.dll
 F:\GitHub\Hack.Fast.Extensions\Hack.Fast.Extensions.pdb
 F:\GitHub\Hack.Fast.Extensions\Newtonsoft.Json.dll
 F:\GitHub\Hack.Fast.Extensions\Newtonsoft.Json.xml
+F:\Github\Hack.Fast.Extensions\obj\Debug\Hack.Fast.Extensions.csprojResolveAssemblyReference.cache
+F:\Github\Hack.Fast.Extensions\bin\Hack.Fast.Extensions.dll
+F:\Github\Hack.Fast.Extensions\bin\Hack.Fast.Extensions.pdb
+F:\Github\Hack.Fast.Extensions\bin\Newtonsoft.Json.dll
+F:\Github\Hack.Fast.Extensions\bin\Newtonsoft.Json.xml
+F:\Github\Hack.Fast.Extensions\bin\ICSharpCode.SharpZipLib.dll
+F:\Github\Hack.Fast.Extensions\bin\NPOI.dll
+F:\Github\Hack.Fast.Extensions\bin\NPOI.OOXML.dll
+F:\Github\Hack.Fast.Extensions\bin\NPOI.OpenXml4Net.dll
+F:\Github\Hack.Fast.Extensions\bin\NPOI.OpenXmlFormats.dll
+F:\Github\Hack.Fast.Extensions\bin\NPOI.xml
