@@ -1,5 +1,0 @@
-D:\FISH平台\项目小平台源代码\MySoft.Map.Extensions\Branches\1.0\bin\Mysoft.Map.Extensions.XML
-D:\FISH平台\项目小平台源代码\MySoft.Map.Extensions\Branches\1.0\bin\Mysoft.Map.Extensions.dll
-D:\FISH平台\项目小平台源代码\MySoft.Map.Extensions\Branches\1.0\bin\Mysoft.Map.Extensions.pdb
-D:\FISH平台\项目小平台源代码\MySoft.Map.Extensions\Branches\1.0\Extensions\obj\Debug\Mysoft.Map.Extensions.dll
-D:\FISH平台\项目小平台源代码\MySoft.Map.Extensions\Branches\1.0\Extensions\obj\Debug\Mysoft.Map.Extensions.pdb
